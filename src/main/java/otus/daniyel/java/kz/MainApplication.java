@@ -8,7 +8,6 @@ public class MainApplication {
         selectColor();
         compareNumbers();
         addOrSubtractAndPrint(10, 5, true);
-
     }
 
     public static void greetings() {
